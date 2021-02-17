@@ -20,15 +20,23 @@
 
 ✅ [1] 메인화면 
 
-![1_메인화면](https://user-images.githubusercontent.com/73815879/108182753-b3a01c80-714c-11eb-9fed-1625ec5c607c.png)
+![1_메인화면](https://user-images.githubusercontent.com/73815879/108196672-b9056300-715c-11eb-910d-40f9edf084ee.png)
 
-✅ [2] 플레이 
+✅ [2] 메뉴얼
 
-![3_저장하기](https://user-images.githubusercontent.com/73815879/108188524-054ba580-7153-11eb-9926-355eb9403fec.gif)
+![2 메뉴얼](https://user-images.githubusercontent.com/73815879/108196703-c589bb80-715c-11eb-80a4-7522a87a2ef4.png)
 
-✅ [3] 저장하기
+✅ [3] 플레이 
 
-![3_저장하기](https://user-images.githubusercontent.com/73815879/108189109-b9e5c700-7153-11eb-8cda-da5815bef4e9.gif)
+![3_플레이](https://user-images.githubusercontent.com/73815879/108188524-054ba580-7153-11eb-9926-355eb9403fec.gif)
+
+✅ [4] 저장하기
+
+![4_저장하기](https://user-images.githubusercontent.com/73815879/108189109-b9e5c700-7153-11eb-8cda-da5815bef4e9.gif)
+
+✅ [5] 엔딩
+
+![5 엔딩](https://user-images.githubusercontent.com/73815879/108196737-d0dce700-715c-11eb-8a0a-9499a2b784c3.gif)
 ## 💻 개발자
  - [김현지](https://github.com/iamhyunji)
  - [김지훈]

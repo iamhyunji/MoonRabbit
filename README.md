@@ -8,10 +8,9 @@
   - [x] Java AWT를 활용
 
 ## 🛠 사용 기술
-
-| Front-End | Back-End | DataBase | Server | Tool |
-| --- | --- | --- | --- | --- |
-| Java |  |  |  | Photoshop <br> Illust |
+  - [x] JAVA
+  - [x] Photoshop
+  - [x] Illustrator
 
 ## 📅 개발 기간
   - [x] 2020.10.01~ 2020.11.01 

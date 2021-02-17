@@ -30,10 +30,10 @@
 
 ![3_저장하기](https://user-images.githubusercontent.com/73815879/108189109-b9e5c700-7153-11eb-8cda-da5815bef4e9.gif)
 ## 💻 개발자
-
-| <img src="https://avatars3.githubusercontent.com/u/65852909?s=400&u=8f18e9a8e35f4ea10e050c12d56c9c971e02eb4d&v=4" width="55" height="55"><br>[김병준](https://github.com/junjun-creator) | <img src="https://avatars.githubusercontent.com/u/73973115?s=400&v=4" width="55" height="55"><br>[박은희](https://github.com/parkeunhee7) | <img src="https://avatars1.githubusercontent.com/u/40957996?s=400&u=df7fd20ae5c0afb399738e9b00fb770bea02d4b3&v=4" width="55" height="55"><br>[조재희](https://github.com/cbw1030) | <img src="https://avatars3.githubusercontent.com/u/73815879?s=400&v=4" width="55" height="55"><br>[박수현](https://github.com/suhyeon7846) |
-| --- | --- | --- | --- |
-
+ - [박수현](https://github.com/suhyeon7846)
+ - [김현지]
+ - [김지훈]
+ - [정진우]
 ## Contribution
   - 로고, 케릭터, 메뉴얼 디자인
   - 케릭터 점프, 충돌 기능 구현

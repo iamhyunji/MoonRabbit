@@ -7,15 +7,16 @@
 ## 📑 프로젝트 소개
   - [x] 2D 도트 액션 AI대전
   - [x] 토끼가 달떡을 찾는 과정을 그린 게임입니다.
+  - [x] Java AWT를 활용
 
 ## 🛠 사용 기술
 
 | Front-End | Back-End | DataBase | Server | Tool |
 | --- | --- | --- | --- | --- |
-| Java |  |  | Apache Tomcat | Photoshop <br> Illust |
+| Java |  |  |  | Photoshop <br> Illust |
 
 ## 📅 개발 기간
-![또바기 프로젝트 일정](https://user-images.githubusercontent.com/65852909/108054741-66f80b00-7092-11eb-8395-07088b71c6a7.png)
+  - [x] 2020.10.01~ 2020.11.01 
 
 
 ## 🎞 실행 화면
@@ -68,31 +69,22 @@
 
 ## 💻 개발자
 
-| <img src="https://avatars3.githubusercontent.com/u/65852909?s=400&u=8f18e9a8e35f4ea10e050c12d56c9c971e02eb4d&v=4" width="55" height="55"><br>[김병준](https://github.com/junjun-creator) | <img src="https://avatars.githubusercontent.com/u/73973115?s=400&v=4" width="55" height="55"><br>[박은희](https://github.com/parkeunhee7) | <img src="https://avatars1.githubusercontent.com/u/40957996?s=400&u=df7fd20ae5c0afb399738e9b00fb770bea02d4b3&v=4" width="55" height="55"><br>[조재희](https://github.com/cbw1030) | <img src="https://avatars3.githubusercontent.com/u/73815879?s=400&v=4" width="55" height="55"><br>[박수현](https://github.com/suhyeon7846) | <img src="https://avatars.githubusercontent.com/u/70611956?s=400&v=4" width="55" height="55"><br>[황병준](https://github.com/Sunflo-H) |
-| --- | --- | --- | --- | --- |
+| <img src="https://avatars3.githubusercontent.com/u/65852909?s=400&u=8f18e9a8e35f4ea10e050c12d56c9c971e02eb4d&v=4" width="55" height="55"><br>[김병준](https://github.com/junjun-creator) | <img src="https://avatars.githubusercontent.com/u/73973115?s=400&v=4" width="55" height="55"><br>[박은희](https://github.com/parkeunhee7) | <img src="https://avatars1.githubusercontent.com/u/40957996?s=400&u=df7fd20ae5c0afb399738e9b00fb770bea02d4b3&v=4" width="55" height="55"><br>[조재희](https://github.com/cbw1030) | <img src="https://avatars3.githubusercontent.com/u/73815879?s=400&v=4" width="55" height="55"><br>[박수현](https://github.com/suhyeon7846) |
+| --- | --- | --- | --- |
 
 ## Contribution
-  - 버킷리스트, 추억등록 담당
-  - [x] Front-end
-    - 버킷리스트, 추억등록 UI 구현
-    - 파일 업로드시 미리보기 구현
-    - 커플노트 페이지 UI 구현
-    - ckeditor 사용
-    - 로고 디자인
-  - [x] Back-end
-    - 버킷리스트, 추억등록 CRUD 구현
-    - 버킷리스트 추천 및 랜덤으로 새로받기 구현
-    - 추억등록 키워드 검색기능 구현
+  - 로고, 케릭터, 메뉴얼 디자인
+  - 케릭터 점프, 충돌 기능 구현
+  - AI 움직임 구현
     
 ## 개발에 어려웠던 점
-  - [x] 서비스 기능의 다양성을 위해 라이브러리들을 처음 활용해봐서 어려움이 있었습니다. 
+  - [x] JAVA를 처음 배우다 보니 언어에 익숙지 않아서 힘들었다. 
 
 ## 느낀점
-  - [x] 적절한 라이브러리와 API를 활용하여 기능을 보다 효율적으로 구현 할 수 있었고, 이런 오픈 소스를 만들어 보고 싶다는 생각을 하게 되었다.
-  - [x] 프레임워크를 이해할 수 있었고, 프레임워크의 효율성을 느낄 수 있었던 프로젝트였다.
-  - [x] 향후 보안 기능을 중점적으로 학습하고, 클린 코드를 작성할 수 있도록 하고싶다는 욕심이 생겼다.
-  - [x] 다양한 API의 활용을 통해 좀 더 양질의 서비스를 제공해보고 싶다.
+  - [x] JAVA라는 언어와 객체지향, 캡슐화에 대해 이해할 수 있는 프로젝트였다.
+  - [x] 좀 더 자연스러운 움직임과 충돌을 구현하고 싶다.
+  - [x] 소켓을 구현해서 실시간 대전을 구현해보고 싶어졌다.
 
 ## 💼Download
-  - git clone https://github.com/junjun-creator/ttobagi.git
+  - git clone https://github.com/suhyeon7846/moonRabbit.git
   

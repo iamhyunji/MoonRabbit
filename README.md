@@ -22,11 +22,11 @@
 
 ![1_메인화면](https://user-images.githubusercontent.com/73815879/108182753-b3a01c80-714c-11eb-9fed-1625ec5c607c.png)
 
-✅ [2] 플레이 화면 
+✅ [2] 플레이 
 
 ![3_저장하기](https://user-images.githubusercontent.com/73815879/108188524-054ba580-7153-11eb-9926-355eb9403fec.gif)
 
-✅ [3] 저장하기 기능 
+✅ [3] 저장하기
 
 ![3_저장하기](https://user-images.githubusercontent.com/73815879/108189109-b9e5c700-7153-11eb-8cda-da5815bef4e9.gif)
 ## 💻 개발자

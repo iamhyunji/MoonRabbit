@@ -39,7 +39,7 @@
 ![5 엔딩](https://user-images.githubusercontent.com/73815879/108196737-d0dce700-715c-11eb-8a0a-9499a2b784c3.gif)
 ## 💻 개발자
  - [김현지](https://github.com/iamhyunji)
- - [김지훈]
+ - [김지훈](https://github.com/recordtve)
  - [박수현](https://github.com/suhyeon7846)
  - [정진우](https://github.com/jjw7795)
 ## Contribution

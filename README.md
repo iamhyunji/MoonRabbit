@@ -30,10 +30,10 @@
 
 ![3_저장하기](https://user-images.githubusercontent.com/73815879/108189109-b9e5c700-7153-11eb-8cda-da5815bef4e9.gif)
 ## 💻 개발자
- - [박수현](https://github.com/suhyeon7846)
  - [김현지]
  - [김지훈]
- - [정진우]
+ - [박수현](https://github.com/suhyeon7846)
+ - [정진우](https://github.com/jjw7795)
 ## Contribution
   - 로고, 케릭터, 메뉴얼 디자인
   - 케릭터 점프, 충돌 기능 구현

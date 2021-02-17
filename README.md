@@ -30,7 +30,7 @@
 
 ![3_저장하기](https://user-images.githubusercontent.com/73815879/108189109-b9e5c700-7153-11eb-8cda-da5815bef4e9.gif)
 ## 💻 개발자
- - [김현지]
+ - [김현지](https://github.com/iamhyunji)
  - [김지훈]
  - [박수현](https://github.com/suhyeon7846)
  - [정진우](https://github.com/jjw7795)

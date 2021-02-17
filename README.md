@@ -20,7 +20,7 @@
 
 ✅ [1] 메인화면 
 
-![1_메인화면](https://user-images.githubusercontent.com/73815879/108196672-b9056300-715c-11eb-910d-40f9edf084ee.png)
+![1_메인화면](https://user-images.githubusercontent.com/73815879/108197084-3cbf4f80-715d-11eb-898f-df79bc5ec9d1.png)
 
 ✅ [2] 메뉴얼
 

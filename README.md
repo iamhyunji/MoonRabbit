@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" style="margin:0 auto;" src="https://user-images.githubusercontent.com/65852909/108047894-b1c15500-7089-11eb-94c4-612eceb20eaa.png"/>
+<img align="center" style="margin:0 auto;" src="https://user-images.githubusercontent.com/73815879/108181290-12649680-714b-11eb-9fca-ff0e66d50d1c.png"/>
 
   <h2 align="center">전설의 달떡을 찾아라</h2>
 </p>

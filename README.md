@@ -43,8 +43,8 @@
  - [박수현](https://github.com/suhyeon7846)
  - [정진우](https://github.com/jjw7795)
  
- | [![img](https://avatars.githubusercontent.com/u/55617281?s=400&u=45166515684d080b5782457babcc6920191823ee&v=4)] | [![img](https://avatars.githubusercontent.com/u/73815879?s=400&v=4) | [![img](https://avatars.githubusercontent.com/u/73972987?s=400&v=4)] | [![img](https://avatars.githubusercontent.com/u/55862164?s=400&v=4)] |
- | --------------- | --------------- | --------------- | --------------- |
+ | ![img](https://avatars.githubusercontent.com/u/55617281?s=400&u=45166515684d080b5782457babcc6920191823ee&v=4) | ![img](https://avatars.githubusercontent.com/u/73815879?s=400&v=4) | ![img](https://avatars.githubusercontent.com/u/73972987?s=400&v=4) | ![img](https://avatars.githubusercontent.com/u/55862164?s=400&v=4) |
+ | :---------------: | :---------------: | :---------------: | :---------------: |
  |[김현지](https://github.com/iamhyunji)|[박수현](https://github.com/suhyeon7846)|[김지훈](https://github.com/recordtve)|[정진우](https://github.com/jjw7795)|
 ## Contribution
   - 전체 틀 및 버튼/캔버스 이동 구현
